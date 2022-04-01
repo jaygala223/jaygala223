@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Kishor Gala</h1>
 <h3 align="center">A machine learning and Open Source enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning / Artificial Intelligence**
+- 🌱 I’m currently studying **Machine Learning / Artificial Intelligence**
 
 - 📝 Read my articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jaygala260/articles)
 
